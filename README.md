@@ -5,6 +5,7 @@
  * 👀 I’m interested in learning everything new Technology 
   <br/>
  * 🌱 I’m currently learning Data Science 🧬 &amp; Data Visualization 📊
+   <br/>
  * ⚡ Fun fact teamwork ✌️
 
 
