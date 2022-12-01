@@ -1,12 +1,15 @@
+### Hi, I’m Reham Ibrahim 👋:octocat:
 
  <img src="https://pa1.narvii.com/6839/2b55833bed6b2b4f6ed7d31411ad0bb5a0999478_hq.gif" />
- * 👋 Hi, I’m Reham Ibrahim is a Computer Information Systems Graduate. I work web Administrator 
+ * 🔭  Graduated from Prince Sattam bin Abdulaziz University, Majoring in Computer Information Systems. I work web Administrator 
  <br/>
  * 👀 I’m interested in learning everything new Technology 
   <br/>
  * 🌱 I’m currently learning Data Science 🧬 &amp; Data Visualization 📊
    <br/>
  * ⚡ Fun fact teamwork ✌️
+ <br/>
+* 📍 Saudi Arabia :green_heart:
 
 
 
