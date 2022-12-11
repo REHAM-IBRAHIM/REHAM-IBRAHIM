@@ -25,7 +25,7 @@ Talk to me about
 - 🥅 2023 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
 - 👩🏻‍💻 All of my projects are available at 
 https://github.com/reham-ibrahim
--📍 Saudi Arabia 💚
+- 📍 Saudi Arabia 💚
 
 <br/>
 <h3 align="left">Languages and Tools:</h3>
