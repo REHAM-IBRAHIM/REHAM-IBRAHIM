@@ -2,7 +2,7 @@
 
  <img src="https://pa1.narvii.com/6839/2b55833bed6b2b4f6ed7d31411ad0bb5a0999478_hq.gif" />
 
-I'm Reham Ibrahim from Saudi Arabia🇸🇦, currently living in Riyadh . I'm a graduate with a Bachelor’s degree in Computer Information Systems , and  graduates in Data visualization and Data science Nano-degree  . Currently working as a Web Administrator at Bank Of Saudi Arabia
+I'm Reham Ibrahim from Saudi Arabia🇸🇦, currently living in Riyadh . I'm a graduate with a Bachelor’s degree in Computer Information Systems , and  graduates in Data visualization and Data science Nano-degree  . Currently working as a Web Administrator
 
 
 
