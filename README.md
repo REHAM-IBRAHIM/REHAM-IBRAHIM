@@ -17,7 +17,9 @@ Talk to me about
 
 
 ## About me 🤔
+
 *I Love ❤️ programming & Data science
+
 * 🌱 I’m currently learning everything 😎
 * ⚡ Fun fact teamwork ✌️ 
 * 👯 I’m looking to collaborate on Open Source Projects 
