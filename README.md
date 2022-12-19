@@ -10,10 +10,10 @@ I'm Reham Ibrahim from Saudi Arabia🇸🇦, currently living in Riyadh . I'm a 
 ## ⚡ Technologies
 Talk to me about
 - Front-end development using **HTML, Javascript,CSS,Swift , jQuery ,Flutter,Bootstrap, Git**
-- Backend development using **Java, Python, Asp.net ,C# , PHP , SQL, my SQL **
+- Backend development using **Java, Python, Asp.net ,C# , PHP , SQL , my SQL**
 - Querying for **Relational Database Management Systems**
-- Mobile application development using **Android and Java, IOS and Swift **
-- Solving Data structure and algorithm questions in **Java **
+- Mobile application development using **Android and Java, IOS and Swift**
+- Solving Data structure and algorithm questions in **Java**
 
 
 ## About me 🤔
