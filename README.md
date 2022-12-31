@@ -35,4 +35,5 @@ https://github.com/reham-ibrahim
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reham-ibrahim&show_icons=true&locale=en" alt="reham-ibrahim" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reham-ibrahim&" alt="reham-ibrahim" /></p>
 
